@@ -1,0 +1,79 @@
+body{
+  color:white;
+  font-family:'Lobster', Times New Roman;
+  background-image: url(https://i.pinimg.com/564x/1d/2e/80/1d2e80a7535971a038a00e5e5354114d.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 230vh;
+  align-items: right;
+  text-align: left;
+  backdrop-filter: blur(3px);
+
+}
+h1{
+  font-size:50px;
+  padding-bottom:2%;
+  text-align: center;
+  margin-top: 1%;
+}
+
+h5{
+  font-size: 18px;
+  text-align: center;
+}
+
+
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  padding-bottom: 0%;
+}
+
+.info{
+  font-style: italic;
+  font-size: 15px;
+}
+
+.name{
+  font-size: 25px;
+  font-style: bold;
+}
+
+#info-1{
+  font-size: 20px;
+  margin: 2% 5% 5% 5%;
+  text-align: justify;
+}
+
+p{
+  font-size: 20px;
+  text-align: justify;
+  margin: 5% 5% 5% 5%;
+}
+
+.age, .year, .home, .ciel, .seb{
+  font-size: 25px;
+}
+
+.personality, .overview{
+  text-align: center;
+}
+
+.ciel{
+  padding-bottom: 30%;
+}
+fieldset {
+  border: none;
+  padding: 2rem;
+  border-top: 3px solid goldenrod;
+  border-bottom: 3px solid goldenrod; 
+
+}
+#tribute{
+  text-align: center;
+}
+#tribute-link{
+  color: goldenrod;
+}
